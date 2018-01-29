@@ -51,6 +51,7 @@ __Le modele__ : Lui il recois les donnees de la requete HTTP que le controleur l
 __La vue__ : elle c'est l'etape finale, elle ne fait que renvoyer au controleurla page appelee avec les informations que le controleur lui fournis pour que le controleur renvoie le produit final a l'utilisateur.
 
 <hr>
+
 Les routes
 ----------
 
@@ -65,6 +66,7 @@ plus d'exemples sur [sois net](https://www.sois-net.fr/routes-ruby-on-rails/)
 
 
 <hr>
+
 Les Bases de Donnees
 --------------------
 
@@ -129,6 +131,8 @@ Les relations entre les modeles des BDD
 Le modèle le plus courant, appelé modèle relationnel, trie les données dans des tables, que l'on appelle aussi des relations, dont chacune se compose de colonnes et de lignes. Chaque colonne contient un attribut de l'entité en question, comme le prix, le code postal ou la date de naissance. L'ensemble des attributs d'une relation est appelé domaine. La clé primaire est constituée par un attribut spécifique ou une combinaison d'attributs. On peut y faire référence dans d'autres tables
 
 <p align="center"><img height="600px" width="300px" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/relational-model.svg" /></p>
+
+<hr>
 
 
 Les fonctions du CRUD
