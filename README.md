@@ -31,7 +31,7 @@ On pourrait prendre comme exemple facebook, qui, si vous etes connecte, afficher
 
 <p align="center"><img src ="https://svennd.be/wp-content/uploads/2015/07/25436088-1.png" /></p>
 
-
+<hr>
 
 Le MVC
 -------
@@ -50,7 +50,7 @@ __Le modele__ : Lui il recois les donnees de la requete HTTP que le controleur l
 
 __La vue__ : elle c'est l'etape finale, elle ne fait que renvoyer au controleurla page appelee avec les informations que le controleur lui fournis pour que le controleur renvoie le produit final a l'utilisateur.
 
-
+<hr>
 Les routes
 ----------
 
@@ -64,7 +64,7 @@ La configuration par defaut se fait par la ligne :
 plus d'exemples sur [sois net](https://www.sois-net.fr/routes-ruby-on-rails/)
 
 
-
+<hr>
 Les Bases de Donnees
 --------------------
 
@@ -81,6 +81,8 @@ on peut y effectuer plusieurs type d'operations :
 On a deux formats de bases de donnees : 
  - sous forme de fichiers (ex : SQLite)
  - sous forme de logiciel / service (ex : MySQL, MongoDB ...)
+
+ <hr>
 
 GET & POST
 ----------
@@ -107,6 +109,8 @@ __Caracteristiques de POST__ :
 - ne se sauvegarde pas en marque page
 - n'est pas limite en caractere ni a l'ascii
 
+<hr>
+
 Le concept de migration
 -----------------------
 
@@ -115,7 +119,7 @@ Dans le cas de rails, on peut faire appel a ``` ActiveRecord::Migrate```
 pour migrer une base de donnee facilement sans avoir a ecrire le sql nous meme 
 <br >
 
-
+<hr>
 
 Les relations entre les modeles des BDD
 ---------------------------------------
