@@ -1,5 +1,6 @@
-# ror-notions
-Repo for THP's ruby ex
+# Demarrer avec Ruby on Rail ![alt text](https://camo.githubusercontent.com/fe28cc8bfdfb725e588eff149961eb3dfe4101fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36322f527562795f4f6e5f5261696c735f4c6f676f2e7376672f32303070782d527562795f4f6e5f5261696c735f4c6f676f2e7376672e706e67)
+*mes excuses pour mon contenu denue d'accents je tape sur un clavier qwerty*
+*j'ai essaye d'utiliser mes mots le plus possible j'espere que ca aidera certains*
 
 
 La difference entre un site dynamique et un site statique :
