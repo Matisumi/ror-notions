@@ -24,7 +24,7 @@ La difference entre un site dynamique et un site statique :
 Les sites statiques et dynamiques n'ont, en apparence, aucune differences ...
 Toute la magie du site dynamique repose dans le contenu de la page appelee :
 
-Dans le cas d'un site statique, lorsque l'on appele une page, le serveur nous renvoie une page (qui peut etre simplement composee d'html et de css) deja prete stockee dans le serveur. Elle ne variera pas selon l'utilisateur qui l'appelle
+Dans le cas d'un site statique, lorsque l'on appelle une page, le serveur nous renvoie une page (qui peut etre simplement composee d'html et de css) deja prete stockee dans le serveur. Elle ne variera pas selon l'utilisateur qui l'appelle
 
 A l'inverse sur un site dynamique, lorsqu'une page est appelee, verra son contenu evoluer en fonction de qui l'appelle et des criteres recus lors de l'appel (IP, logins, form ....).
 On pourrait prendre comme exemple facebook, qui, si vous etes connecte, affichera le fil d'actualite correspondant a votre profil ou encore le site THP qui affiche votre nom et votre progression dans le cursus ...
@@ -116,9 +116,10 @@ __Caracteristiques de POST__ :
 Le concept de migration
 -----------------------
 
-<p>La migration c'est le fait de deplacer des donnees, des fichiers, des applications d'un emplacement __A__ a __B__ d'un fichier __A__ a __B__ d'un format __A__ a __B__</p>
+La migration c'est le fait de deplacer des donnees, des fichiers, des applications d'un emplacement __A__ a __B__ d'un fichier __A__ a __B__ d'un format __A__ a __B__
 <p> ('fin vous avez compris le concept :p )</p>
-Dans le cas de rails, on peut faire appel a ``` ActiveRecord::Migrate```
+Dans le cas de rails, on peut faire appel a 
+		<code>ActiveRecord::Migrate</code>
 pour migrer une base de donnee facilement sans avoir a ecrire le sql nous meme 
 <br >
 
