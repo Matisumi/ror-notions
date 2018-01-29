@@ -2,7 +2,8 @@
 <p><em>mes excuses pour mon contenu denue d'accents je tape sur un clavier qwerty</em></p>
 <p><em>j'ai essaye d'utiliser mes mots le plus possible j'espere que ca aidera certains</em></p>
 
-
+<hr>
+ 
 Index
 <ol>
 	<li>Site statique/dynamique</li>
@@ -27,6 +28,8 @@ Dans le cas d'un site statique, lorsque l'on appele une page, le serveur nous re
 A l'inverse sur un site dynamique, lorsqu'une page est appelee, verra son contenu evoluer en fonction de qui l'appelle et des criteres recus lors de l'appel (IP, logins, form ....).
 On pourrait prendre comme exemple facebook, qui, si vous etes connecte, affichera le fil d'actualite correspondant a votre profil ou encore le site THP qui affiche votre nom et votre progression dans le cursus ...
 
+![alt text](https://svennd.be/wp-content/uploads/2015/07/25436088-1.png)
+
 
 
 Le MVC
@@ -38,7 +41,7 @@ Le MVC est une methode d'organisation de son code, cela consiste a separer son c
  - Le modele
  - La vue
 
- [img]
+ ![alt text](http://www.script-tutorials.com/demos/497/MVC.png)
 
 Le controleur : c'est lui qui va recevoir la requete HTTP (HyperText Transfert Protocol) et orchestrer le processus de reponse. Il va prendre les informations recues demander au modele de verifier/recuperer ce qui est demande et renvoyer les informations a la vue
 
@@ -54,11 +57,10 @@ Les routes permettent de renvoyer la page appelee en dechiffrant l'url fourni, e
 
 La configuration par defaut se fait par la ligne :
 
-1
-	
-resources :photos
 
-plus d'exemples sur sois net
+	resources :photos
+
+plus d'exemples sur [sois net](https://www.sois-net.fr/routes-ruby-on-rails/)
 
 
 
