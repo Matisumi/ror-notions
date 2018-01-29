@@ -1,4 +1,4 @@
-# Demarrer avec Ruby on Rail ![alt text](https://camo.githubusercontent.com/fe28cc8bfdfb725e588eff149961eb3dfe4101fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36322f527562795f4f6e5f5261696c735f4c6f676f2e7376672f32303070782d527562795f4f6e5f5261696c735f4c6f676f2e7376672e706e67)
+# Demarrer avec Ruby on ![alt text](https://camo.githubusercontent.com/fe28cc8bfdfb725e588eff149961eb3dfe4101fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36322f527562795f4f6e5f5261696c735f4c6f676f2e7376672f32303070782d527562795f4f6e5f5261696c735f4c6f676f2e7376672e706e67)
 <p><em>mes excuses pour mon contenu denue d'accents je tape sur un clavier qwerty</em></p>
 <p><em>j'ai essaye d'utiliser mes mots le plus possible j'espere que ca aidera certains</em></p>
 
@@ -21,7 +21,7 @@ Index
 La difference entre un site dynamique et un site statique :
 ----------------------------------------------------------
 
-les sites statiques et dynamiques ont, en apparence, aucune differences ...
+Les sites statiques et dynamiques n'ont, en apparence, aucune differences ...
 Toute la magie du site dynamique repose dans le contenu de la page appelee :
 
 Dans le cas d'un site statique, lorsque l'on appele une page, le serveur nous renvoie une page (qui peut etre simplement composee d'html et de css) deja prete stockee dans le serveur. Elle ne variera pas selon l'utilisateur qui l'appelle
@@ -116,7 +116,8 @@ __Caracteristiques de POST__ :
 Le concept de migration
 -----------------------
 
-La migration c'est le fait de deplacer des donnees, des fichiers, des applications d'un emplacement __A__ a __B__ d'un fichier __A__ a __B__ d'un format __A__ a __B__ ('fin vous avez compris le concept :p )
+<p>La migration c'est le fait de deplacer des donnees, des fichiers, des applications d'un emplacement __A__ a __B__ d'un fichier __A__ a __B__ d'un format __A__ a __B__</p>
+<p> ('fin vous avez compris le concept :p )</p>
 Dans le cas de rails, on peut faire appel a ``` ActiveRecord::Migrate```
 pour migrer une base de donnee facilement sans avoir a ecrire le sql nous meme 
 <br >
@@ -154,3 +155,7 @@ on trouve meme quelques acronymes amusants representant plus ou moins la meme ch
 - __BREAD__ (Browse, Read, Edit, Add, Delete)
 - __DAVE__ (Delete, Add, View, Edit)
 - __CRAP__ (Create, Retrieve, Alter, Purge)
+
+<hr>
+
+<p align="center"><img src="https://cdn-images-1.medium.com/max/1200/1*iIiiKaJKg8k9aRU8iWxCxA.jpeg" /></p>
