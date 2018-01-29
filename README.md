@@ -29,7 +29,7 @@ Dans le cas d'un site statique, lorsque l'on appele une page, le serveur nous re
 A l'inverse sur un site dynamique, lorsqu'une page est appelee, verra son contenu evoluer en fonction de qui l'appelle et des criteres recus lors de l'appel (IP, logins, form ....).
 On pourrait prendre comme exemple facebook, qui, si vous etes connecte, affichera le fil d'actualite correspondant a votre profil ou encore le site THP qui affiche votre nom et votre progression dans le cursus ...
 
-<img align=center src ="https://svennd.be/wp-content/uploads/2015/07/25436088-1.png" />
+<img align="center" src ="https://svennd.be/wp-content/uploads/2015/07/25436088-1.png" />
 
 
 
@@ -42,7 +42,7 @@ Le MVC est une methode d'organisation de son code, cela consiste a separer son c
  - Le modele
  - La vue
 
-<img align= center src="http://www.script-tutorials.com/demos/497/MVC.png" />
+<img align="center" src="http://www.script-tutorials.com/demos/497/MVC.png" />
 
 __Le controleur__ : c'est lui qui va recevoir la requete HTTP (HyperText Transfert Protocol) et orchestrer le processus de reponse. Il va prendre les informations recues demander au modele de verifier/recuperer ce qui est demande et renvoyer les informations a la vue
 
@@ -123,7 +123,7 @@ Les relations entre les modeles des BDD
 
 Le modèle le plus courant, appelé modèle relationnel, trie les données dans des tables, que l'on appelle aussi des relations, dont chacune se compose de colonnes et de lignes. Chaque colonne contient un attribut de l'entité en question, comme le prix, le code postal ou la date de naissance. L'ensemble des attributs d'une relation est appelé domaine. La clé primaire est constituée par un attribut spécifique ou une combinaison d'attributs. On peut y faire référence dans d'autres tables
 
-<img align= center height="300px" width="150px" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/relational-model.svg" />
+<img align="center" height="600px" width="300px" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/relational-model.svg" />
 
 
 Les fonctions du CRUD
