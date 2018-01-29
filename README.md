@@ -3,6 +3,19 @@
 <p><em>j'ai essaye d'utiliser mes mots le plus possible j'espere que ca aidera certains</em></p>
 
 
+Index
+<ol>
+	<li>Site statique/dynamique</li>
+	<li>Le MVC</li>
+	<li>Les routes</li>
+	<li>Les Bases de donnee</li>
+	<li>GET / POST</li>
+	<li>La migration</li>
+	<li>Les relation entre modeles de BDD</li>
+	<li>CRUD</li>
+</ol>
+
+
 La difference entre un site dynamique et un site statique :
 ----------------------------------------------------------
 
